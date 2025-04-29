@@ -29,10 +29,10 @@ Train an intent classifier (understand user queries)
 I will provide this bot a medical article from sources like mayoclinic.org
 
 > [!IMPORTANT]
-> using the newspaper3k library to fetch and process an article from the Mayo Clinic website. Your code is structured to:
+> using the newspaper3k library to fetch and process an article from the Mayo Clinic website.
 Download the webpage content.
 Parse it to extract text.
-Apply NLP techniques like keyword extraction.
+Apply NLTK techniques for keyword extraction.
 Store the full article text in corpus1.
 A couple of things to consider:
 Respecting Copyright: Be cautious when storing and using extracted text, as websites like Mayo Clinic may have restrictions on content usage.
