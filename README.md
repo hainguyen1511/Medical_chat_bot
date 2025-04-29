@@ -1,4 +1,4 @@
-# Medical_chat_bot
+# [**Medical chat bot**] (https://github.com/hainguyen1511/Google-Colab/blob/main/Medical%20Bot.ipynb)
 Inspired by a person on youtube
 1. Define the Scope & Goals
 Target users: Patients, doctors, healthcare providers?
