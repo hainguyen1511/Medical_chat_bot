@@ -1,5 +1,5 @@
 # [Medical chat bot](https://github.com/hainguyen1511/Google-Colab/blob/main/Medical%20Bot.ipynb)
-Inspired by [Computer Science (compsci112358) on youtube] (https://www.youtube.com/watch?v=9KZwRBg4-P0)
+Inspired by [Computer Science (compsci112358) on youtube](https://www.youtube.com/watch?v=9KZwRBg4-P0)
 > [!NOTE]
 > 1. Define the Scope & Goals
 Target users: Patients, doctors, healthcare providers?
