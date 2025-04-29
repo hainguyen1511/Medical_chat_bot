@@ -38,3 +38,6 @@ A couple of things to consider:
 Respecting Copyright: Be cautious when storing and using extracted text, as websites like Mayo Clinic may have restrictions on content usage.
 Error Handling: If the website changes its structure or blocks requests, you might need exception handling to prevent failures.
 Alternative APIs: Some medical sites offer official APIs for accessing article summaries legally.
+
+> [!CAUTION]
+> nltk will tokenize article to keywords
