@@ -10,15 +10,17 @@ Limitations: Legal compliance (HIPAA, GDPR), no direct diagnosis?
 > 2. Choose the Tech Stack
 Programming Language: Python
 Libraries & Tools:
-NLP: spaCy, NLTK, or 
+NLP: NLTK, or 
 Machine Learning: newspaper3k, 
 
-3. Design the Conversation Flow
+> [!NOTE]
+> 3. Design the Conversation Flow
 Greeting & user identification
 Collect symptoms & health concerns
 Provide responses (triage advice, health information)
 
-4. Implement Natural Language Processing (NLP)
+> [!NOTE]
+> 4. Implement Natural Language Processing (NLP)
 Preprocess text (tokenization, stemming, stopword removal)
 Train an intent classifier (understand user queries)
 
