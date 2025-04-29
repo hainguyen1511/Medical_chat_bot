@@ -9,7 +9,7 @@ Limitations: Legal compliance (HIPAA, GDPR), no direct diagnosis?
 > [!NOTE]
 > 2. Choose the Tech Stack
 Programming Language: Python
-Libraries & Tools:
+Libraries & Tools: numpy, pandas, sklearn
 NLP: NLTK, or 
 Machine Learning: newspaper3k, 
 
@@ -24,3 +24,17 @@ Provide responses (triage advice, health information)
 Preprocess text (tokenization, stemming, stopword removal)
 Train an intent classifier (understand user queries)
 
+> [!TIP]
+> How do I train this bot, were does it get health information from?
+I will provide this bot a medical article from sources like mayoclinic.org
+
+> [!IMPORTANT]
+> using the newspaper3k library to fetch and process an article from the Mayo Clinic website. Your code is structured to:
+Download the webpage content.
+Parse it to extract text.
+Apply NLP techniques like keyword extraction.
+Store the full article text in corpus1.
+A couple of things to consider:
+Respecting Copyright: Be cautious when storing and using extracted text, as websites like Mayo Clinic may have restrictions on content usage.
+Error Handling: If the website changes its structure or blocks requests, you might need exception handling to prevent failures.
+Alternative APIs: Some medical sites offer official APIs for accessing article summaries legally.
